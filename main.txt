@@ -1,0 +1,18 @@
+Information about each book:
+Author: Lauren Ling Brown, Title: Society of lies, Year: 2024, Price: 14.99, Stoplist: False
+Author: Falkovich, Title: How to speak about art in English, Year: 1949, Price: 15.99, Stoplist: False
+Author: Harper Lee, Title: To Kill a Mockingbird, Year: 1960, Price: 12.99, Stoplist: False
+Author: J.D. Salinger, Title: The Catcher in the Rye, Year: 1951, Price: 8.99, Stoplist: False
+Author: Bram Stoker, Title: Dracula, Year: 1897, Price: 5.99, Stoplist: False
+
+Most expensive book:
+Author: Falkovich, Title: How to speak about art in English, Year: 1949, Price: 15.99, Stoplist: False
+
+Setting stoplist for '1984' to True:
+
+Information after censorship:
+Author: Lauren Ling Brown, Title: Society of lies, Year: 2024, Price: 14.99, Stoplist: False
+Author: Falkovich, Title: How to speak about art in English, Year: 1949, Price: 15.99, Stoplist: False
+Author: Harper Lee, Title: To Kill a Mockingbird, Year: 1960, Price: 12.99, Stoplist: False
+Author: J.D. Salinger, Title: The Catcher in the Rye, Year: 1951, Price: 8.99, Stoplist: False
+Author: Bram Stoker, Title: Dracula, Year: 1897, Price: 5.99, Stoplist: False
